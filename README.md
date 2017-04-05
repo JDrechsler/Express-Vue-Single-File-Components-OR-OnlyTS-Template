@@ -1,4 +1,4 @@
-# Express-Vue-Single-File-Components-OR-OnlyTs-Template
+# Express-Vue-Single-File-Components-OR-OnlyTS-Template
 
 I will add a better readme later. For now it is a working template which is using the following:
 
